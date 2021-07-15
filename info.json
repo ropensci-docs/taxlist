@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "af41a8bb620b2840f2042bd4c57e5f5d6d98f77c",
+    "author": "Miguel Alvarez <kamapu78@gmail.com>",
+    "time": "2021-07-15 15:56:57",
+    "files": 13,
+    "merge": true,
+    "message": "Merge pull request #15 from ropensci/no-taxa\n\nSolving issue with taxa v. 0.4.0"
+  },
+  "remote": "https://github.com/ropensci/taxlist",
+  "pkg": "taxlist"
+}
