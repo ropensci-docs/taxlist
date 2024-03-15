@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "43f1cfa39d65a5f3f71b9fd2f22f4b441f65e481",
+    "author": "Miguel Alvarez <kamapu78@gmail.com>",
+    "time": "2024-02-14 08:30:33",
+    "files": 14,
+    "merge": false,
+    "message": "37 dwc dataframe (#46)\n\n* updated actions.\r\n\r\n* New function 'taxlist2df()'\r\n\r\n* Function 'taxlist2df()' checked."
+  },
+  "repo": "https://github.com/ropensci/taxlist",
+  "pkg": "taxlist"
+}
