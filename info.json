@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "7e74a1b4203eeee4319964d287e860795f585d80",
+    "author": "Miguel Alvarez <kamapu@posteo.de>",
+    "time": "2026-02-03T07:50:01Z",
+    "files": 2,
+    "merge": false,
+    "message": "re-arranged badges.\n"
+  },
+  "repo": "https://github.com/ropensci/taxlist",
+  "pkg": "taxlist",
+  "time": "2026-08-30T07:45:56Z"
+}
